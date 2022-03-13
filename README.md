@@ -1,4 +1,4 @@
-# Доброго времени суток! <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="25px" />
+# Доброго времени суток! <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="50px" />
 
 ### Меня зовут Александр и я фронтенд-разработчик.
 
