@@ -1,4 +1,17 @@
-### Hi there 👋
+# Доброго времени суток! <img src="https://media3.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47pa0qz6oyz2nfeg2450uqyzfr8bq986cblyd0e14l&rid=giphy.gif&ct=g" width="25px/>
+
+### Меня зовут Александр и я фронтенд-разработчик
+
+**Стэк технологий, которые я использую в разработке:**
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Redux
+
+📫 Связаться со мной: [telegram](https://t.me/Mace5ta)
+
+### Хорошего дня!)
 
 <!--
 **Mace5ta/Mace5ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
