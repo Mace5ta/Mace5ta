@@ -1,6 +1,6 @@
-# Доброго времени суток! <img src="https://media3.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47pa0qz6oyz2nfeg2450uqyzfr8bq986cblyd0e14l&rid=giphy.gif&ct=g" width="25px/>
+# Доброго времени суток! <img src="https://media3.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47pa0qz6oyz2nfeg2450uqyzfr8bq986cblyd0e14l&rid=giphy.gif" width="25px/>
 
-### Меня зовут Александр и я фронтенд-разработчик
+### Меня зовут Александр и я фронтенд-разработчик.
 
 **Стэк технологий, которые я использую в разработке:**
 * HTML5
