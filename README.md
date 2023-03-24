@@ -1,17 +1,18 @@
-# Доброго времени суток! <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="50px" />
+# Hello everyone! <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="50px" />
 
-### Меня зовут Александр и я фронтенд-разработчик.
+### My name is Alexander and I'm a Frontend Developer.
 
-**Стэк технологий, которые я использую в разработке:**
+**My skills:**
 * HTML5
 * CSS3
 * JavaScript
 * React
 * Redux
+* Typescript
 
-📫 Связаться со мной: [telegram](https://t.me/Mace5ta)
+📫 Contact for communication: [telegram](https://t.me/Mace5ta)
 
-### Хорошего дня!)
+### Have a nice day!)
 
 <!--
 **Mace5ta/Mace5ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
