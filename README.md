@@ -5,7 +5,6 @@
 **My skills:**
 * JavaScript / React / Typescript
 * HTML5 / CSS3
-* JavaScript
 * Redux / MobX
 * Webpack / JEST /  Node.js / Git
 * Next.js
