@@ -3,12 +3,12 @@
 ### My name is Alexander and I'm a Frontend Developer.
 
 **My skills:**
-* HTML5
-* CSS3
+* JavaScript / React / Typescript
+* HTML5 / CSS3
 * JavaScript
-* React
-* Redux
-* Typescript
+* Redux / MobX
+* Webpack / JEST /  Node.js / Git
+* Next.js
 
 📫 Contact for communication: [telegram](https://t.me/Mace5ta)
 
